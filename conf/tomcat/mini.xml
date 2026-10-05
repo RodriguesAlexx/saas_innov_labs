@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Aqui o path para salvar este arquivo: /var/lib/tomcat10/conf/Catalina/localhost
+  Depois de salvo ali, carregue a app a mini no navegador o da sua preferência...
+-->
+<Context path="/mini" 
+	docBase="/opt/tomcat10/mini_saas"
+	antiResourceLocking="false" privileged="true" />
